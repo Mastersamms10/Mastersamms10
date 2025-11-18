@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mastersamms10
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Development 
+- 🌱 I’m currently learning Application Development 
+- 💞️ I’m looking to collaborate on Any Interesting Projects
 - 📫 How to reach me smsoksam@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: None
+- ⚡ Fun fact: I am Fit
 
 <!---
 Mastersamms10/Mastersamms10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

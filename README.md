@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mastersamms10
+- 👋 Hi, I’m Samith M Samani
 - 👀 I’m interested in Development 
 - 🌱 I’m currently learning Application Development 
 - 💞️ I’m looking to collaborate on Any Interesting Projects
